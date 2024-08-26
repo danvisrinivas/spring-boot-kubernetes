@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  demo-service:
+    image: spring-boot-kubernetes-service:1.0
+    restart: always
+    build: .
+    ports:
+      - "8080:8080"
