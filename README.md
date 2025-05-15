@@ -13,3 +13,6 @@ First run 'mvn clean install' followed by 'docker compose up'
 
 ## Remove all Kubernetes
    kubectl delete deployments --all && kubectl delete services --all
+
+
+   https://track.pstmrk.it/3s/www.hackerrank.com%2Ftests%2F5j7tk089g4j%2Flogin%3Fb%3DeyJ1c2VybmFtZSI6InNyaW5pdmFzLmJhc2hhMjgxMUBnbWFpbC5jb20iLCJwYXNzd29yZCI6IjNjM2U3ZDJiIiwiaGlkZSI6dHJ1ZSwiYWNjb21tb2RhdGlvbnMiOm51bGx9/EDcI/uVS9AQ/AQ/8094f958-5736-4ef8-a043-4689a243340b/5/DYLxXV5yHs
